@@ -1,0 +1,12 @@
+1.Kolku e dozvoleno alkohol vo krvta na vozach? a. 0.5 promili b.1.0 promili c.1.5 promili
+2.Koja nauka e prirodna nauka od navedenite? a. Inovacii b. Hemija c. Matematika
+3.Koja marka na avtomobil ima zadni pogonski trkala? a. Skoda b. Mercedes c. Volkswagen
+4.Koja reprezentacija vo fudbal beshe svetski shampion vo 2010? a. Germanija b. Shpanija c.Holandija
+5.Koj posleden par na hromozomi se kaj mashkite? a. XX b.XY c. YY
+6.Koga prestigna brojot na zhiteli 8 milijardi vo svetot? a. 2020 b. 2021 c. 2022
+7.Koj programer/developer chesto gi koristi HTML,CSS,JS? a.Front-end programer b. Back-end programer c.Game developer
+8.Koja drzhava se naogja vo Afrika? a. Irak b. Tunisija c. Litvanija
+9.Koj e modelot na skoda od slednite? a. Passat b. GTR c. Superb
+10.Kolku dolari chini najskapata Bugatti kola? a. 15.3 milioni dolari  b. 10.8 milioni dolari c. 7 milioni dolari
+11.Kolku e 256/8*44+54-13? a. 1449 b. 1274 c. 1532
+12.Koj programski jazik ima najobemen materijal? a. Python b. C# c. Java
